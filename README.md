@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- markdownlint-disable MD033 MD041 -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=49F7B8&center=true&vCenter=true&multiline=true&repeat=true&width=435&height=140&lines=FrontEnd;Backend" alt="Example Usage - README Typing SVG">
+</p>
+<!-- markdownlint-enable MD033 -->
+
+![hola](/img-banner.webp)
